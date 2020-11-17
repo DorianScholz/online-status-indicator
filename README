@@ -1,0 +1,5 @@
+sudo apt install python-gtk2 python-appindicator
+
+or
+
+sudo apt install python-pyqt4
